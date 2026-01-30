@@ -14,7 +14,7 @@ This repository tracks my Python and Flask learning journey through hands-on exe
 ### Python
 - **Basic**: Python fundamentals and syntax
 - **Intermediate**: Data structures, algorithms, and problem-solving
-- **Advanced**: Advanced Python concepts and techniques
+- **Advance**: Advanced Python concepts and techniques
 
 ### Flask
 - Web application development with Flask
@@ -37,5 +37,5 @@ Learning/
 
 - 🟢 Python Basics
 - 🟡 Python Intermediate (In Progress)
-- 🔴 Python Advanced
+- 🔴 Python Advance
 - 🟡 Flask Basics (In Progress)
