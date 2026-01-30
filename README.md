@@ -1,32 +1,41 @@
 # Learning
 
-This repository tracks what I am learning.
+This repository tracks my Python and Flask learning journey through hands-on exercises and projects.
 
 ## 📋 Goals
 
-- Learn new technologies and frameworks
+- Master Python programming fundamentals
+- Learn Flask web framework
 - Build practical projects
-- Document my learning journey
-- Track progress and achievements
+- Document my learning progress
 
 ## 📚 Current Topics
 
-- Add topics you're currently studying here
-- Update regularly as you progress through different subjects
+### Python
+- **Basic**: Python fundamentals and syntax
+- **Intermediate**: Data structures, algorithms, and problem-solving
+- **Advanced**: Advanced Python concepts and techniques
 
-## 📊 Progress Tracking
-
-| Topic | Status | Start Date | End Date | Notes |
-|-------|--------|------------|----------|-------|
-| Example Topic | In Progress | 2026-01-30 | - | Sample entry |
-
-### Progress Legend
-- 🟢 Completed
-- 🟡 In Progress
-- 🔴 Not Started
+### Flask
+- Web application development with Flask
+- Building REST APIs
+- Project: My First Flask App
 
 ## 📁 Repository Structure
 
-- `/logs` - Daily/weekly learning logs
-- `/notes` - Study notes and documentation
-- `/projects` - Hands-on projects and exercises
+```
+Learning/
+├── PYTHON/
+│   ├── Basic/          # Python basics and fundamentals
+│   ├── Intermediate/   # Intermediate Python exercises
+│   └── Advance/        # Advanced Python topics
+└── FLASK/
+    └── My First Flask App/  # Flask web application project
+```
+
+## 🎯 Learning Progress
+
+- 🟢 Python Basics
+- 🟡 Python Intermediate (In Progress)
+- 🔴 Python Advanced
+- 🟡 Flask Basics (In Progress)
