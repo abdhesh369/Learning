@@ -1,6 +1,6 @@
 # Learning
 
-This repository to track what i am learning.
+This repository tracks what I am learning.
 
 ## 📋 Goals
 
