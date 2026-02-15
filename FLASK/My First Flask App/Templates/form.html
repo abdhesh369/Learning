@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Form Example</title>
+</head>
+<body>
+    <h1>Tell Me Your Name</h1>
+    
+    <form method="POST" action="/greet">  <!-- POST method, goes to /greet route -->
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>  <!-- Input field -->
+        
+        <button type="submit">Submit</button>  <!-- Submit button -->
+    </form>
+</body>
+</html>
